@@ -14,7 +14,8 @@ print("Result 1:", result1)  # Expected output: -1
 
 # Scenario 2: 9, 17
 result2 = swap(9, 17)
-print("Result 2:", result2)  # Expected output: prints "17 9" and then None (because swap prints but returns None)
+# Expected output: prints "17 9" and then None (because swap prints but returns None)
+print("Result 2:", result2)  
 
 
 
